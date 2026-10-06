@@ -1,0 +1,20 @@
+# Datasets
+datasets/
+output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Models
+*.pt
+*.onnx
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Zip files
+*.zip
